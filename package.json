@@ -4,7 +4,7 @@
   "description": "This is a user login and registration app using Node.js, Express, Mongoose and express-sessions. :+1:",
   "main": "server.js",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "connect-mongo": "^3.0.0",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
